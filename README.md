@@ -2,7 +2,7 @@
 
 I'm Qasim Ali Farooqui. Recently graduated with a Bachelor of Engineering in Computer Science. A dedicated, organized, and highly talented CS graduate looking for an exciting and challenging opportunity as a Software Developer. Seeking to leverage exceptional technical knowledge and skill to bring value to your organization and go beyond expectations to achieve organizational goals and objectives.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B6F9E&size=32&lines=Hey!+It's+Qasim!;I'm+a+Software+Developer!!!;Working+as+a+Full+Stack+Dev;Interested+in+ML+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B6F9E&size=32&lines=Hey!+It's+Qasim!;I'm+a+Software+Developer!!!;Working+as+Full+Stack+Dev;Interested+in+ML+and+AI)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently exploring Machine Learning domain.
