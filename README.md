@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Qasim Ali Farooqui. Recently graduated with a Bachelor of Engineering in Computer Science. A dedicated, organized, and highly talented CS graduate looking for an exciting and challenging opportunity as a Software Developer. Seeking to leverage exceptional technical knowledge and skill to bring value to your organization and go beyond expectations to achieve organizational goals and objectives.
+Currently pursuing my Master's degree in Computer Science, I'm a dedicated and highly skilled graduate with 2 years of industry expertise in scalable software. Eagerly seeking an exciting Software Developer role, I aim to leverage my exceptional technical knowledge to exceed expectations and drive your organization towards its goals. Let's embark on this dynamic journey together, where innovation knows no bounds.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B6F9E&size=32&lines=Hey!+It's+Qasim!;I'm+a+Software+Developer!!!;Working+as+Full+Stack+Dev;Interested+in+ML+and+AI)](https://git.io/typing-svg)
 
@@ -14,9 +14,10 @@ I'm Qasim Ali Farooqui. Recently graduated with a Bachelor of Engineering in Com
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
