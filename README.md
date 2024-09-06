@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently pursuing my Master's degree in Computer Science, I'm a dedicated and highly skilled graduate with 2 years of industry expertise in scalable software. Eagerly seeking an exciting Software Developer role, I aim to leverage my exceptional technical knowledge to exceed expectations and drive your organization towards its goals. Let's embark on this dynamic journey together, where innovation knows no bounds.
+Currently holding a Master's degree in Computer Science, I'm a dedicated and highly skilled graduate with 3+ years of industry expertise in scalable software. Eagerly seeking an exciting Software Developer role, I aim to leverage my exceptional technical knowledge to exceed expectations and drive your organization towards its goals. Let's embark on this dynamic journey together, where innovation knows no bounds.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=8B6F9E&size=32&lines=Hey!+It's+Qasim!;I'm+a+Software+Developer!!!;Working+as+Full+Stack+Dev;Interested+in+ML+and+AI)](https://git.io/typing-svg)
 
